@@ -24,7 +24,7 @@
         <mxCell id="ui49v3VDkCJBjatYep88-1" value="筛选高被引文献（按被引量排序，初筛100篇，终选77篇）" style="whiteSpace=wrap;html=1;strokeColor=#fcfcfc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="220" width="125" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ui49v3VDkCJBjatYep88-8" value="" style="whiteSpace=wrap;html=1;strokeColor=#fcfcfc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ui49v3VDkCJBjatYep88-8" value="Excel统计分析（国家区域、作者、研究领域分布）" style="whiteSpace=wrap;html=1;strokeColor=#fcfcfc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="220" width="125" height="60" as="geometry" />
         </mxCell>
       </root>
