@@ -37,7 +37,7 @@
           <mxGeometry x="621.5" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ui49v3VDkCJBjatYep88-12" value="内容辩证批判分析" style="whiteSpace=wrap;html=1;strokeColor=#fcfcfc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="821.5" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="821.5" y="220" width="158.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ui49v3VDkCJBjatYep88-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ui49v3VDkCJBjatYep88-16" target="ui49v3VDkCJBjatYep88-12">
           <mxGeometry relative="1" as="geometry" />
