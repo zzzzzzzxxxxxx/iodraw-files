@@ -21,7 +21,7 @@
         <mxCell id="ui49v3VDkCJBjatYep88-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ui49v3VDkCJBjatYep88-1" target="ui49v3VDkCJBjatYep88-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ui49v3VDkCJBjatYep88-1" value="筛选高被引文献（按被引量排序，初筛100篇，终选77篇）" style="whiteSpace=wrap;html=1;strokeColor=#fcfcfc;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ui49v3VDkCJBjatYep88-1" value="筛选高被引文献（按被引量排序，初筛100篇，终选77篇）" style="whiteSpace=wrap;html=1;strokeColor=#fcfcfc;fontColor=#FFFFFF;fillColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="220" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ui49v3VDkCJBjatYep88-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ui49v3VDkCJBjatYep88-8" target="ui49v3VDkCJBjatYep88-10" edge="1">
