@@ -15,7 +15,7 @@
         <mxCell id="ui49v3VDkCJBjatYep88-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#fcfcfc;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ui49v3VDkCJBjatYep88-0" target="ui49v3VDkCJBjatYep88-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ui49v3VDkCJBjatYep88-0" value="检索文献（Web of Science数据库，2012-2024）" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ui49v3VDkCJBjatYep88-0" value="检索文献（Web of Science数据库，2012-2024）" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="210" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ui49v3VDkCJBjatYep88-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ui49v3VDkCJBjatYep88-1" target="ui49v3VDkCJBjatYep88-8" edge="1">
