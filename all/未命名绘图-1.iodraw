@@ -33,7 +33,7 @@
         <mxCell id="ui49v3VDkCJBjatYep88-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ui49v3VDkCJBjatYep88-10" target="ui49v3VDkCJBjatYep88-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ui49v3VDkCJBjatYep88-10" value="主题分类（政治体制改革、反腐败、党的建设、外交政策、意识形态）" style="whiteSpace=wrap;html=1;strokeColor=#fcfcfc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ui49v3VDkCJBjatYep88-10" value="主题分类（政治体制改革、反腐败、党的建设、外交政策、意识形态）" style="whiteSpace=wrap;html=1;strokeColor=#fcfcfc;fontColor=#FFFFFF;fillColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="220" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ui49v3VDkCJBjatYep88-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ui49v3VDkCJBjatYep88-12" target="ui49v3VDkCJBjatYep88-16" edge="1">
