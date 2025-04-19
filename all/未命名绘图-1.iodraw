@@ -39,7 +39,7 @@
         <mxCell id="ui49v3VDkCJBjatYep88-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ui49v3VDkCJBjatYep88-12" target="ui49v3VDkCJBjatYep88-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ui49v3VDkCJBjatYep88-12" value="内容辩证批判分析" style="whiteSpace=wrap;html=1;strokeColor=#fcfcfc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ui49v3VDkCJBjatYep88-12" value="内容辩证批判分析" style="whiteSpace=wrap;html=1;strokeColor=#fcfcfc;fillColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="220" width="98.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ui49v3VDkCJBjatYep88-16" value="总结结论" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
